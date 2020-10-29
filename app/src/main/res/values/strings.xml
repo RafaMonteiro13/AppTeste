@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cadastro_firebase</string>
+    <string name="cadastrar">Cadastrar novo usuário</string>
+    <string name="entrar">Entrar com cadastro existente</string>
+    <string name="cad_cadastrar">Cadastrar</string>
+    <string name="cad_cancel">Cancelar</string>
+    <string name="cad_entrar">Entrar</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-Mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="confsenha">Confirmar Senha:</string>
+    <string name="modificar">Modificar</string>
+</resources>
